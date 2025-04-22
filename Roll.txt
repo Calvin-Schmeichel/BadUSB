@@ -1,0 +1,7 @@
+REM Opens URL in default web browser on Windows
+REM Replace "https://youtu.be/dQw4w9WgXcQ" with desired URL
+
+GUI r
+DELAY 500
+STRING https://youtu.be/dQw4w9WgXcQ
+ENTER
